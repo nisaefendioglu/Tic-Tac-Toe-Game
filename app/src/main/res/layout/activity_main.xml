@@ -18,22 +18,22 @@
 
             <Button
                 android:id="@+id/bu1"
-                android:layout_width="135dp"
-                android:layout_height="150dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
                 android:onClick="buClick"
 
                 />
 
             <Button
                 android:id="@+id/bu2"
-                android:layout_width="135dp"
-                android:layout_height="150dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
                 android:onClick="buClick" />
 
             <Button
                 android:id="@+id/bu3"
-                android:layout_width="135dp"
-                android:layout_height="150dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
                 android:onClick="buClick" />
         </TableRow>
 
@@ -43,20 +43,20 @@
 
             <Button
                 android:id="@+id/bu4"
-                android:layout_width="135dp"
-                android:layout_height="150dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
                 android:onClick="buClick" />
 
             <Button
                 android:id="@+id/bu5"
-                android:layout_width="135dp"
-                android:layout_height="150dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
                 android:onClick="buClick" />
 
             <Button
                 android:id="@+id/bu6"
-                android:layout_width="135dp"
-                android:layout_height="150dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
                 android:onClick="buClick" />
         </TableRow>
 
@@ -66,22 +66,35 @@
 
             <Button
                 android:id="@+id/bu7"
-                android:layout_width="135dp"
-                android:layout_height="150dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
                 android:onClick="buClick" />
 
             <Button
                 android:id="@+id/bu8"
-                android:layout_width="135dp"
-                android:layout_height="150dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
                 android:onClick="buClick" />
 
             <Button
                 android:id="@+id/bu9"
-                android:layout_width="135dp"
-                android:layout_height="150dp"
+                android:layout_width="130dp"
+                android:layout_height="120dp"
                 android:onClick="buClick" />
+
         </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="209dp"
+            android:drawableLeft="@drawable/bug" android:text="VS" android:textSize="90dp"
+            android:drawableRight="@drawable/bub" />
+            />
+
+
 
     </TableLayout>
 

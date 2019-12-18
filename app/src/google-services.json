@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45587637542",
+    "firebase_url": "https://tic-tac-toe-android-35f0d.firebaseio.com",
+    "project_id": "tic-tac-toe-android-35f0d",
+    "storage_bucket": "tic-tac-toe-android-35f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45587637542:android:7df0f8918c70a6d5df0de7",
+        "android_client_info": {
+          "package_name": "com.example.tiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45587637542-ur7f1h82733fd6vt25aesrvsfp6oncuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzJ2e6S4baLQsggvmtezWzBDRtt8A2DE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45587637542-ur7f1h82733fd6vt25aesrvsfp6oncuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
